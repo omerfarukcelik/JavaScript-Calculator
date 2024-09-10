@@ -1,2 +1,2 @@
 # JavaScript-Calculator
-Modern calculator using JavaScript, CSS, and HTML 
+This project is a modern calculator built using JavaScript, CSS, and HTML, providing a clean and user-friendly interface for performing basic arithmetic operations such as addition, subtraction, multiplication, and division. The JavaScript handles the logic for the calculations, ensuring accuracy and efficiency, while the CSS adds a visually appealing layout and responsiveness. This calculator is designed with a focus on simplicity and functionality, making it an ideal project for demonstrating foundational skills in web development.
